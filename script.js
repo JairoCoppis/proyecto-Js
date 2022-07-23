@@ -1,5 +1,5 @@
 
-//TP Arrays
+//TP Arrays.
 //Lista ServicioSocial
 
 //Nombre - Apellido - Numero de panteon - Fecha de defuncion - Panteon
