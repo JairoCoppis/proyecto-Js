@@ -23,7 +23,7 @@ listaSepelio.forEach(function(nombre, apellido, Defuncion, Panteon){
 
 
 
-// Calculadora del Dolar
+// Calculadora del Dolar.
 
 /* alert ("Bienvenid@ a la calculadora del dolar")
 let dolarOficialBnaCompra = parseInt(prompt("Ingrese monto de la compra de dolar BNA: "))
