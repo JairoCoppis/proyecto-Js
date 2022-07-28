@@ -5,7 +5,7 @@
 //Nombre - Apellido - Numero de panteon - Fecha de defuncion - Panteon
 
 
-let listaSepelio = [
+/* let listaSepelio = [
     {ID:"A1", nombre:"Abel", apellido:"Arias", Defuncion:"20/3/20", Panteon:"1"},
     {ID:"B1", nombre:"Boris", apellido:"Berselino", Defuncion:"28/04/21", Panteon:"2"},
     {ID:"C1", nombre:"Claudio", apellido:"Caseres", Defuncion: "21/05/22", Panteon:"3"}
@@ -17,6 +17,8 @@ console.log(listaSepelio.length)
 listaSepelio.forEach(function(nombre, apellido, Defuncion, Panteon){
     console.log(nombre, apellido, Defuncion, Panteon); 
 })
+*/
+
 
 
 
